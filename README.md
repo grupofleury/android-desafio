@@ -7,15 +7,18 @@ Desafio teste
 - Kotlin
 - ConstraintLayout
 - Android 5+
+- Faça um readme informando particularidades e justificativas para determinadas escolhas
 
 ## Sugestões
 
 - Aplicar alguma arquitetura - MVVM, MVP, VIP, VIPER
-- Retrofit para consumir os dados da API
-- Implementar algum framework para Dependency Injection
+- Framework para consumir os dados da API
+- Implementar framework para Dependency Injection
 - Procure enviar o relatório de cobertura de testes
 
 ## Mockup
+
+## API
 
 ## Como submeter?
 
@@ -28,5 +31,8 @@ Deverá ser enviado um PULL REQUEST com o seu teste.
 - Procure fazer o máximo de commits com todas as suas decisões
 - Abra um Pull Request para este repositório
 
+## Dúvidas
 
+Consulte as issues para ver se outro DEV já não a fez e caso você não ache sua resposta, abra você mesmo uma nova issue.
 
+### Não existe prazo estipulado. Qualidade máxima é o que queremos
