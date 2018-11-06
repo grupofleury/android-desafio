@@ -1,7 +1,6 @@
 Desafio teste
 ====
 
-
 ## Requisitos
 
 - Kotlin
@@ -15,10 +14,17 @@ Desafio teste
 - Framework para consumir os dados da API
 - Implementar framework para Dependency Injection
 - Procure enviar o relatório de cobertura de testes
+- Feedback para o usuário e fluidez na navegação ganham pontos
 
 ## Mockup
 
 ## API
+
+- As datas estão em milisegundos(UTC), devem ser formatadas para o TimeZone do local do celular e exibidas conforme o mockup
+- O atributo "healthy" determina se é positiva ou negativa a situação, está no formato Boolean
+
+      GET - http://5be19df804cb600013a61f1a.mockapi.io/api/v1/results
+      GET - http://5be19df804cb600013a61f1a.mockapi.io/api/v1/results/{id}
 
 ## Como submeter?
 
