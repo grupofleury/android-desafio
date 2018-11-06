@@ -1,4 +1,4 @@
-Desafio teste
+Desafio android
 ====
 
 ## Requisitos
@@ -7,6 +7,7 @@ Desafio teste
 - ConstraintLayout
 - Android 5+
 - Faça um readme informando particularidades e justificativas para determinadas escolhas
+- Fonte: OpenSans-Regular.ttf
 
 ## Sugestões
 
@@ -17,6 +18,14 @@ Desafio teste
 - Feedback para o usuário e fluidez na navegação ganham pontos
 
 ## Mockup
+
+### Inicial
+
+![](https://raw.githubusercontent.com/grupofleury/android-desafio/master/heroscreen.png)
+
+### Detalhes
+
+![](https://raw.githubusercontent.com/grupofleury/android-desafio/master/details.png)
 
 ## API
 
