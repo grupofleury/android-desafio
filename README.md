@@ -23,13 +23,13 @@
 
 ### Inicial
 
-![](heroscreen.png)
+![](heroscreen.jpg)
 
 ### Detalhes
 
-![](details1.png)
+![](details1.jpg)
 
-![](details2.png)
+![](details2.jpg)
 
 ## API
 
