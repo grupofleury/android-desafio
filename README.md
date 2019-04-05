@@ -20,7 +20,7 @@
 
 ### Inicial
 
-![](heroscreen.jpg)
+![](fleurychallenge.jpg)
 
 ## API
 
